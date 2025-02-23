@@ -1,4 +1,4 @@
-# Games-Analyisis
+# Games-Analysis
 Proyecto dedicado a analizar los datos sobre ventas mundiales de videojuegos
 
 # Etapas que componen el proyecto
