@@ -3,18 +3,18 @@ Este proyecto está dedicado a analizar los datos sobre ventas mundiales de vide
 
 ![Proyecto 1 - Videojuegos/Tarea 1 - Videojuegos.JPG](https://github.com/justonenicolas/Games-Analysis/blob/main/Proyecto%201%20-%20Videojuegos/Tarea%201%20-%20Videojuegos.JPG)
 
-## Habilidades destacadas
+## 💡 Habilidades destacadas
 * Análisis preparatorio de datos
 * Análisis estadístico de datos
 * Visualización de datos
 
-## 🛠️ Herramientas y librerías utilizadas
+## 🔧 Herramientas y librerías utilizadas
 * Pandas
 * Matplotlib
 * Scipy
 * Power BI (para la creación del dashboard)
 
-## Conclusiones generales
+## 📊 Conclusiones generales
 * Se logró determinar que el periodo promedio de popularidad de las plataformas es de aproximadamente 6 años, mostrando una tendencia mayor para las plataformas lanzadas despues de 2005
 * Se recomienda sectorizar la oferta de videojuegos y plataformas dependiendo de la región del mundo donde se trabaje
    * Para el caso de Norte América las plataformas de la línea X (X360 y XOne) presentan mucho mejor comportamiento
